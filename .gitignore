@@ -1,0 +1,10 @@
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore environment directories
+env/
+venv/
+.env
+
+# Ignore node_modules
+node_modules/
